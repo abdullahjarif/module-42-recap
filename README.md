@@ -1,5 +1,15 @@
 # React + Vite
 
+42-1 Scribbles Cafe Project Overview and Tailwind setup
+42-2 Create Fake Data for the blogs and load data
+42-3 Set Layout and make react responsive
+42-4 Display Blog data and hashtags
+42-5 Add Bookmark button
+42-6 Handle bookmark state and display bookmark And lift up the state
+42-7 Add Time when marked as read
+42-8 Remove bookmark after read
+42-9 Deploy to surge
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
