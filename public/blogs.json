@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "cover_photo": "https://i.ibb.co.com/zWvQG2dx/image-3.jpg",
+    "title": "10 Essential UI/UX Design Tips for Beginners",
+    "author": "Sara Hasan",
+    "author_img": "https://i.ibb.co.com/KcZp3gpQ/member3.png",
+    "posted_date": "2025-01-12",
+    "reading_time": 6,
+    "hashtags": ["UIUX", "DesignTips", "Figma", "WebDesign"]
+  },
+  {
+    "id": 2,
+    "cover_photo": "https://i.ibb.co.com/KjZtnszH/nextjs-and-headless-cms-devcontentops.png",
+    "title": "Improve React App Performance with Simple Techniques",
+    "author_img": "https://i.ibb.co.com/0phMJYP3/Jarif.png",
+    "author": "Akash Rahman",
+    "posted_date": "2025-01-05",
+    "reading_time": 8,
+    "hashtags": ["React", "JavaScript", "WebDev", "Frontend"]
+  },
+  {
+    "id": 3,
+    "cover_photo": "https://i.ibb.co.com/3YYpnYMS/growtika-qaed-Ply-Uro-unsplash.jpg",
+    "title": "How AI Will Transform the Future of Web Development",
+    "author_img": "https://i.ibb.co.com/mCBMn0Kr/ceo-2.png",
+    "author": "Nadia Khan",
+    "posted_date": "2025-02-01",
+    "reading_time": 5,
+    "hashtags": ["AI", "FutureTech", "WebDevelopment", "Innovation"]
+  },
+  {
+    "id": 4,
+    "cover_photo": "https://i.ibb.co.com/GQwD3H7q/growtika-y-GQmjh2u-OTg-unsplash.jpg",
+    "title": "The Complete Guide to Designing in Dark Mode",
+    "author_img": "https://i.ibb.co.com/QFWY8QKS/ceo-1.png",
+    "author": "Mohammad Yusuf",
+    "posted_date": "2025-01-20",
+    "reading_time": 7,
+    "hashtags": ["DarkMode", "UIUX", "Figma", "DesignGuide"]
+  },
+  {
+    "id": 5,
+    "cover_photo": "https://i.ibb.co.com/MD5SkWsg/10-Steps-to-Build-Your-Startup-from-Scratch.jpg",
+    "title": "Branding Tips Every Startup Should Know",
+    "author_img": "https://i.ibb.co.com/hFLwb5tG/arun-kumar.webp",
+    "author": "Alina Rahim",
+    "posted_date": "2025-02-10",
+    "reading_time": 4,
+    "hashtags": ["Branding", "Startup", "Marketing", "Business"]
+  },
+  {
+    "id": 6,
+    "cover_photo": "https://i.ibb.co.com/4rhBq0w/BANNER.jpg",
+    "title": "Branding Tips Every Startup Should Know",
+    "author_img": "https://i.ibb.co.com/qMP2T00K/ayesha-rahman.webp",
+    "author": "Ayesha Rahman",
+    "posted_date": "2025-02-10",
+    "reading_time": 9,
+    "hashtags": ["Branding", "Startup", "Marketing", "Business"]
+  }
+]
